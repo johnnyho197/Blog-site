@@ -15,8 +15,8 @@ To get started with Blog Site, follow the instructions in the [Getting Started](
 
 ## Technologies Used
 
-- Frontend: [React](https://reactjs.org/), [React Router](https://reactrouter.com/)
-- Backend: [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [MongoDB](https://www.mongodb.com/)
+- Frontend: [React](https://reactjs.org/), [React Router](https://reactrouter.com/), [Vite]
+- Backend: [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [MySQL]
 
 ## Installation
 
