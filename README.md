@@ -26,5 +26,5 @@ To get started with Blog Site, follow the instructions in the [Getting Started](
 
 ## Usage
 
-1. Start the development server: `npm run dev` in client directory and `npm run start`
+1. Start the website: `npm run dev` in client directory and `npm run start` in server directory
 3. Create an account, write your first post, and explore the blog site!
